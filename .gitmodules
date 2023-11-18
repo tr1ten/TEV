@@ -1,0 +1,6 @@
+[submodule "TEV-frontend"]
+	path = TEV-frontend
+	url = https://github.com/tr1ten/TEV-frontend.git
+[submodule "TEV-backend"]
+	path = TEV-backend
+	url = https://github.com/tr1ten/TEV-backend
