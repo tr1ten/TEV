@@ -10,6 +10,10 @@ Each component is a separate application with its own README file. Refer to the 
 1. Frontend - refer to the [frontend README](./TEV-frontend/README.md) for more details.
 2. Backend - refer to the [backend README](./TEV-backend/README.md) for more details.
 
+### Try it out
+1.  [Backend](https://tev-backend.vercel.app/api)   
+2. [Frontend](https://tev-frontend.vercel.app/)
+
 ### Key Features
 
 - 🎯 **User Filters:** Apply filters for Domain, Gender, and Availability simultaneously.
@@ -25,6 +29,8 @@ Each component is a separate application with its own README file. Refer to the 
 - Node.js and Express.js for the server
 - MongoDB for the database
 - Mongoose for object modeling with MongoDB
+
+
 
 ### Final Notes
 Thank you for exploring the Team Creator TEV Full Stack Web Application!
